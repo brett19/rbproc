@@ -1,0 +1,7 @@
+{
+  "name": "rb-asset-tool",
+  "version": "0.0.1",
+  "dependencies": {
+    "imagemagick-native": "git+https://github.com/brett19/node-imagemagick-native.git"
+  }
+}
